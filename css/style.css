@@ -6,3 +6,12 @@ body {
 body {
   color: #394357;
 }
+
+hackathon-content {
+  position:absolute;
+  top:0;
+  left:0;
+  width:30%;
+  height:100%;
+  text-align:center;
+}
