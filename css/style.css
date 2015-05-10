@@ -11,3 +11,9 @@ body {
   text-align: center;
   color:white;
 }
+
+.logo {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
