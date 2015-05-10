@@ -30,13 +30,25 @@ body {
 }
 
 .left {
-  background: #1daeff;
+  
 }
 
 .center {
-  background: #27bb66;
+  
 }
 
 .right {
+  
+}
+
+.video-one {
+  background: #1daeff;
+}
+
+.video-two {
+  background: #27bb66;
+}
+
+.video-three {
   background: #ff5257;
 }
