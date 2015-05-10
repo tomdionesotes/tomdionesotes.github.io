@@ -2,6 +2,10 @@ html,
 body {
   height: 100%;
   background-color: #394357;
+  font-family: 'RobotoDraft', sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.6;
 }
 
 #hackathon-content {
@@ -21,3 +25,4 @@ body {
   bottom:0;
   z-index:20;
 }
+
