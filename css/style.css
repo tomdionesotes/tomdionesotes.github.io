@@ -28,3 +28,15 @@ body {
   bottom:0;
   z-index:20;
 }
+
+.left {
+  background: #1daeff;
+}
+
+.center {
+  background: #27bb66;
+}
+
+.right {
+  background: #ff5257;
+}
