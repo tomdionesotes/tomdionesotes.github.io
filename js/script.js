@@ -1,11 +1,5 @@
-$(document).ready(function() {
- $("#left").hover(
-  function () {
-    $(this).addClass("video-one");
-  },
-  function () {
-    $(this).removeClass("video-one");
-  }
-);
-
+$(document).ready(function(){
+ $('left').hover(function() {
+  $('body').css('background', '#1daeff');
+   )};
 });
