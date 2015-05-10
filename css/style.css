@@ -7,7 +7,7 @@ body {
   color: #394357;
 }
 
-hackathon-content {
+.hackathon-content {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
