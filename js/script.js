@@ -1,5 +1,8 @@
 $(document).ready(function(){
- $('#left').hover(function() {
-  $('body').css('background', '#1daeff');
-   )};
+ $("#left").mouseenter(function(){
+  $("body").css("background-color", "yellow");
+ });
+ $("#left").mouseleave(function(){
+  $("body").css("background-color", "green");
+ });
 });
